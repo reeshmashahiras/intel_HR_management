@@ -33,8 +33,7 @@
 
 **WORKFLOW**
 
-             ![Screenshot (37)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/c8db65ca-3006-4f9a-b6e3-3164ccc59144)
-
+             ![Screenshot (37)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/a81a6b08-ffc8-4c3e-93d0-79c635779e12)
 
 **INFERENCE OF MODELS**
              
