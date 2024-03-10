@@ -54,3 +54,7 @@
 **FINAL OUTPUT OF OUR WEBAPP**
 
      https://drive.google.com/file/d/17XujPPb5yQ9Jq1qarhLnU7-eJoLFVofU/view?usp=sharing
+
+
+     https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/09ad8eaf-5d33-4c65-a7cd-fad9973d01ec
+
