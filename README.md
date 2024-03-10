@@ -17,14 +17,29 @@
 
 **WEBAPP**
 
-   ![Screenshot (35)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/512b0555-2d07-4fc6-9325-87a75c378bf2)
-
-
    ![Screenshot (36)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/ca9ff397-c32e-4dd0-a249-4340a594c166)
 
 
+   ![Screenshot (35)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/512b0555-2d07-4fc6-9325-87a75c378bf2)
 
 
-*WEBAPP executing  commands:*
+**INTEL TECHNOLOGY INTEGRATIONS**
 
-      
+             1.Intel Developer Cloud
+             2.Intel OneDNN
+             3.Intel Distributions for Python 
+             4.Intel Scikit-learn
+
+
+**WORKFLOW**
+
+             ![Screenshot (37)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/c8db65ca-3006-4f9a-b6e3-3164ccc59144)
+
+
+**INFERENCE OF MODELS**
+             
+             ![Screenshot (38)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/efe5d774-7e94-4f1f-b523-3d19e952e4f9)
+
+
+             
+![Screenshot (39)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/21bf5fac-bc11-4fb8-a343-cee805d65ff9)
