@@ -20,6 +20,7 @@
    ![Screenshot (35)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/512b0555-2d07-4fc6-9325-87a75c378bf2)
 
 
+   ![Screenshot (36)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/ca9ff397-c32e-4dd0-a249-4340a594c166)
 
 
 
