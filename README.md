@@ -23,6 +23,13 @@
    ![Screenshot (35)](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/512b0555-2d07-4fc6-9325-87a75c378bf2)
 
 
+   
+   ![IMG-20240310-WA0004](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/d41440d6-d616-42fb-b601-8e03b6eee949)
+
+   
+
+   ![IMG-20240310-WA0005](https://github.com/reeshmashahiras/intel_HR_management/assets/100523261/495f8b94-6bab-4d27-a78e-021dfecec4cf)
+
 **INTEL TECHNOLOGY INTEGRATIONS**
 
              1.Intel Developer Cloud
